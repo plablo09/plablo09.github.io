@@ -1,5 +1,30 @@
 ---
-title: "About"
+title: "Pablo"
+image: img/plablo.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/pablo-lopez-ramirez-51b71724/
+    - text: Twitter
+      href: https://twitter.com/plablo09
+    - text: GitHub
+      href: https://github.com/plablo09
+    - text: Email
+      href: mailto:pablo.lopez@centrogeo.edu.mx
 ---
 
-About this site
+### Educación
+
+* Licenciatura en Física por la UNAM
+* Especialidad en Geomática por CentroGeo
+* Maestría en Geomática por CentroGeo
+* Doctorado en Ciencias de Información Geoespacial por CentroGeo
+
+### Experiencia laboral
+
+* Investigador asociado en CentroGeo desde el 2012
+* Coordinador académico de la Maestría en Ciencias de Información Geoespacial del 2018 al 2020
+* Coordinador de Posgrado en CentroGeo desde el 2020

@@ -1,7 +1,6 @@
 ---
-title: "plablo09.github.io"
+title: "Pablo López-Ramírez"
 ---
 
-This is a Quarto website.
+Estudié Física pero ahora soy Geógrafo, o algo parecido, por lo menos. Trabajo en [CentroGeo](https://www.centrogeo.org.mx/) haciendo investigación en la esquina de la Geografía y las Ciencias de la Computación; a veces más de un lado, a veces más de otro, a veces en medio. Además de investigar trabajo en el posgrado del Centro dando clases en especialidad, maestría y doctorado.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
